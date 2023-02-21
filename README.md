@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @iamrahsal
-- 👀 I’m interested in DevOps, Cloud, Python Programming..
+- 👀 I’m in Python Programming and DevOps..
+- 🤷 AL - ML - Data Engineering
 - 🌱 I’m currently learning everything I can
 - 📫 Just search for IAMRAHSAL to reach me 
 
